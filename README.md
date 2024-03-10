@@ -11,7 +11,7 @@
 
 - 👨‍💻 Take a look at my website at [https://reigdev.hu](https://reigdev.hu)
 
-- 📫 How to reach me **work@reigdev.hu**
+- 📫 You can reach me anytime at **work@reigdev.hu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
