@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Matt</h1>
+<h1 align="center">Hello, it's Matt here 👋</h1>
 <h3 align="center">A passionate backend developer & graphic designer from Hungary📍</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matyas-toth&label=Profile%20views&color=0e75b6&style=flat" alt="matyas-toth" /> </p>
