@@ -2,9 +2,9 @@
 
 #### A Backend Developer by day ☼ and a Graphic Designer by night ☾
 
-Web Backend Developer at [DevCaveTeam](https://devcaveteam.eu);<br>
-Java Developer at [MineZone](https://minezone.hu);<br>
-[EvoCampus](https://www.evosoft.hu/about_us_evolife_evouni) Student
+- Web Backend Developer at [DevCaveTeam](https://devcaveteam.eu)
+- Java Developer at [MineZone](https://minezone.hu)
+- Student at [University of Miskolc](https://uni-miskolc.hu) & [EvoCampus](https://www.evosoft.hu/about_us_evolife_evouni)
 
 - ⚙️ I use daily: `.php`, `.js`, `.cs`, `.java`, `.py`, `.html`, `.css`, `.psd`, `.ai`
 - 🌍 I'm mostly active within the **Spigot Community**
