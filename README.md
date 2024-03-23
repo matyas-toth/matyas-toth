@@ -18,9 +18,4 @@
 - Add me on [Discord](https://discord.com) (reigdev)
 
 ### Github Statistics 🐈 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matyas-toth&hide_progress=false)
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matyas-toth&show_icons=true&locale=en" alt="matyas-toth" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matyas-toth&" alt="matyas-toth" /></p>
