@@ -25,7 +25,7 @@
 
 <h3>Most used languages: </h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matyas-toth&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matyas-toth&hide_progress=false)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matyas-toth&show_icons=true&locale=en" alt="matyas-toth" /></p>
 
