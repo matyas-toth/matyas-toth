@@ -8,7 +8,7 @@
 
 #### My ambitions & skills
 
-- 🌐 Take a look at my website at [reigdev.hu](https://reigdev.hu)
+- 🌐 Take a look at my resume at [cv.reigdev.hu](https://cv.reigdev.hu)
 - ⚙️ I use daily: `.php`, `.js`, `.cs`, `.java`, `.py`, `.html`, `.css`, `.psd`, `.ai`
 - 🌍 I'm mostly active within the **Spigot Community**
 - 💬 `ping` me about **design**, **branding**, **php**, **programming**, **java**
