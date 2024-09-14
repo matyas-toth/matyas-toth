@@ -2,7 +2,7 @@
 
 #### A Backend Developer by day ☼ and a Graphic Designer by night ☾
 
-- Web Backend Developer at [DevCaveTeam](https://devcaveteam.eu)
+- Founder at [Reig Industries](https://reigdev.hu)
 - Development Leader at [SkyEvel](https://skyevel.com)
 - Student at [University of Miskolc](https://uni-miskolc.hu) & [EvoCampus](https://www.evosoft.hu/about_us_evolife_evouni)
 
