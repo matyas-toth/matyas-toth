@@ -19,3 +19,4 @@
 
 ### Github Statistics 🐈 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matyas-toth&show_icons=true&locale=en" alt="matyas-toth" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matyas-toth" alt="matyas-toth"/></p>
