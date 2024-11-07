@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-#### A Backend Developer by day ☼ and a Graphic Designer by night ☾
+#### A Full Stack Developer by day ☼ and a Graphic Designer by night ☾
 
 - Founder at [Reig Industries](https://reigdev.hu)
 - Development Leader at [SkyEvel](https://skyevel.com)
