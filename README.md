@@ -2,6 +2,7 @@
 
 #### A Full Stack Developer by day ☼ and a Graphic Designer by night ☾
 
+- Automation Specialist at [DATAGROUP](https://www.datagroup.de)
 - Founder at [Reig Industries](https://reigdev.hu)
 - Development Leader at [SkyEvel](https://skyevel.com)
 - Student at [University of Miskolc](https://uni-miskolc.hu) & [EvoCampus](https://www.evosoft.hu/about_us_evolife_evouni)
