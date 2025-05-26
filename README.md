@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-#### A Full Stack Developer by day ☼ and a Graphic Designer by night ☾
+#### A Full Stack Developer by day ☼ and a Founder by night ☾
 
 - Automation Specialist at [DATAGROUP](https://www.datagroup.de)
 - Founder at [Reig Industries](https://reigdev.hu)
