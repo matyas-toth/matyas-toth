@@ -9,7 +9,6 @@
 
 #### My ambitions & skills
 
-- 🌐 Take a look at my resume at [reigdev.hu](https://reigdev.hu)
 - ⚙️ I use daily: `.php`, `.ts`, `.tsx`, `.cs`, `.java`, `.py`, `.html`, `.css`, `.psd`, `.ai`
 - 💬 `ask` me about **design**, **branding**, **javascript**, **programming**, **java**, **php**
 
