@@ -4,7 +4,7 @@
 
 - Automation Specialist at [DATAGROUP](https://www.datagroup.de)
 - Founder at [Reig Industries](https://reigdev.hu)
-- Development Leader at [SkyEvel](https://skyevel.com)
+- Founder at at [CloudClient](https://cloudclient.hu)
 - Student at [University of Miskolc](https://uni-miskolc.hu) & [EvoCampus](https://www.evosoft.hu/about_us_evolife_evouni)
 
 #### My ambitions & skills
@@ -15,7 +15,7 @@
 
 #### Contact
 
-- Contact me anytime at work@reigdev.hu
+- Contact me anytime at hello@reigdev.hu
 - Add me on [Discord](https://discord.com) (reigdev)
 
 ### Github Statistics 🐈 
