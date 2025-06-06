@@ -4,7 +4,7 @@
 
 - Automation Specialist at [DATAGROUP](https://www.datagroup.de)
 - Founder at [Reig Industries](https://reigdev.hu)
-- Founder at at [CloudClient](https://cloudclient.hu)
+- Founder at [CloudClient](https://cloudclient.hu)
 - Student at [University of Miskolc](https://uni-miskolc.hu) & [EvoCampus](https://www.evosoft.hu/about_us_evolife_evouni)
 
 #### My ambitions & skills
